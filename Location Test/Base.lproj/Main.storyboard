@@ -19,7 +19,7 @@
             </objects>
             <point key="canvasLocation" x="-2506" y="-151"/>
         </scene>
-        <!--View Controller - Tadar-->
+        <!--View Controller - Root-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
                 <viewController id="vXZ-lx-hvc" customClass="ViewController" sceneMemberID="viewController">
@@ -104,7 +104,7 @@
                             </button>
                         </barButtonItem>
                     </toolbarItems>
-                    <navigationItem key="navigationItem" title="Tadar" id="IUy-9s-Yir"/>
+                    <navigationItem key="navigationItem" title="Root" id="IUy-9s-Yir"/>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="address" destination="Q30-CJ-Dq9" id="qWJ-cQ-w1u"/>
